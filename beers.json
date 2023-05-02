@@ -1,0 +1,2154 @@
+[
+    {
+      "title": "Settlers' Oatmeal Stout",
+      "img": "stout.jpg",
+      "type": "stout",
+      "style": "Stout - Oatmeal",
+      "abv": "5.9%",
+      "description": "2019 US Open Beer Championship Gold Medalist",
+      "onTap": true
+    },
+    {
+      "title": "Advocate Amber Ale",
+      "img": "amberale.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.6%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Vallensons' IPA",
+      "img": "vipa.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Lemongrass and Ginger Wheat",
+      "img": "wheat.jpg",
+      "type": "wheat",
+      "style": "Wheat Beer - American Pale Wheat",
+      "abv": "6.0%",
+      "description": "This great summer beer is our American Wheat with a twist! We added fresh lemongrass and ginger throughout the brewing process resulting in very clean refreshing flavors without an overbearing ginger taste. The ABV is 5.5%.",
+      "onTap": false
+    },
+    {
+      "title": "Cream Ale",
+      "img": "creamale.jpg",
+      "type": "cream",
+      "style": "Cream Ale",
+      "abv": "5.2%",
+      "description": "Our Cream Ale is a light, thirst quenching ale with an amazing balance of malt to hop ratio. It comes in at 5.2 ABV and is one that can be enjoyed all day!",
+      "onTap": false
+    },
+    {
+      "title": "Russian Imperial Stout",
+      "img": "russian.jpg",
+      "type": "stout",
+      "style": "Stout - Imperial / Double",
+      "abv": "10%",
+      "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. It has a low carbonation level and the ABV is 10%.",
+      "onTap": false
+    },
+    {
+      "title": "Hazy Girl!",
+      "img": "hazygirl.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.0%",
+      "description": "This New England style Hazy IPA has a huge hop nose but a low bitter profile.",
+      "onTap": false
+    },
+    {
+      "title": "The Depot Pale Ale",
+      "img": "depot.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Amberzon",
+      "img": "amberzon.jpg",
+      "type": "lager",
+      "style": "Lager - Amber",
+      "abv": "7.5%",
+      "description": "An Imperial Amber Ale that comes in at 7.5%. The color is a dark amber with a nice thick head. The aroma is extremely balanced with a perfect hop character and a ton of malty complexity!",
+      "onTap":false
+    },
+    {
+      "title": "Anniversary Ale",
+      "img": "anniversary.jpg",
+      "type": "strong",
+      "style": "Strong Ale - American",
+      "abv": "9%",
+      "description": "An experimental strong ale",
+      "onTap": false
+    },
+    {
+      "title": "2 Bros Brew Pale Ale",
+      "img": "2bros2.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.25%",
+      "description": "This pale ale is very light and smooth coming in at 5.25 ABV. We used Mosaic hops whole leaf and pellet. It's a great summer beer!",
+      "onTap": false
+    },
+    {
+      "title": "EXP IPA",
+      "img": "experimentalipa.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Down the Hatch",
+      "img": "wheat.jpg",
+      "type": "wheat",
+      "style": "American Wheat Ale",
+      "abv": "5.5%",
+      "description": "\"Down The Hatch\" a Lemongrass Ginger Wheat with Hatch Green Chile.",
+      "onTap": false
+    },
+    {
+      "title": "The 11th Hour",
+      "img": "11thhour.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double",
+      "abv": "11.0%",
+      "description": "It’s rich malt base and medium hop profile. It has a smooth yet full body taste and it improves as it gets warmer.",
+      "onTap": false
+    },
+    {
+      "title": "Ryes Up!!",
+      "img": "ryesup.jpg",
+      "type": "rye",
+      "style": "Rye Beer",
+      "abv": "5.5%",
+      "description": "The Vallensons' Rye is brewed with 50% Rye and 50% base malt. This beer comes in at 5.5% ABV. It has a long lasting white head with a touch of haze. It's smells delicious with a low to moderate grainy, spicy rye character. The full body mouthfeel and dry finish is one that will definitely quench your thirst.",
+      "onTap": false
+    },
+    {
+      "title": "Exp IPA #2",
+      "img": "experimentalipa.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double",
+      "abv": "9.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Proof is in the porter",
+      "img": "porter.jpg",
+      "type": "porter",
+      "style": "Porter - English",
+      "abv": "5.2%",
+      "description": "It’s perfect for this fall weather. Roasted malts featuring chocolate and coffee flavors with a balanced hop profile for a smooth finish. This is the third release of our fall series. It has a roasted malty aroma with a hint of molasses.",
+      "onTap": false
+    },
+    {
+      "title": "Christmas Ale",
+      "img": "christmas.jpg",
+      "type": "old",
+      "style": "Old Ale",
+      "abv": "6.8%",
+      "description": "Our Christmas Ale is brewed in the style of an English Old Ale with an emphasis of the Winter Warmer profile. Brewed with fresh spruce tips. ABV is 6.8%. Perfect for your holiday celebrations!",
+      "onTap": false
+    },
+    {
+      "title": "V3",
+      "img": "exp3.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "7.3%",
+      "description": "This IPA is the 3rd in our experimental series. It has a fresh, full flavor with a tribute to the classic IPAs with a post modern twist and an amazing fruity hop profile, which gives an explosion of tropical fruit flavors and a sharp bitter finish. This one comes in at 7.3 ABV.",
+      "onTap": false
+    },
+    {
+      "title": "Pat’s Bourbon BBL-Aged Oatmeal Stout",
+      "img": "bourbon.jpg",
+      "type": "stout",
+      "style": "Stout - Oatmeal",
+      "abv": "7%",
+      "description": "We are saddened by the recent passing of one of our regulars, Pat, our “Norm”. We are blessed to have met Pat and will greatly miss seeing him every Friday and Saturday at the end of our bar enjoying his Vallensons’ favorite, The Settlers’ Oatmeal Stout. In his memory, we name our newest beer Pat’s Bourbon BBL-Aged Oatmeal Stout. This is our first barrel-aged release. Aged in bourbon barrels to create a rich, complex, medium-bodied beer with a Chocolate Roast flavor and aroma with warm bourbon and oak undertones and it gets better as is warms up. 7% ABV. This release is limited in quantity. RIP Pat.",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons’ Coffee Stout ",
+      "img": "coffee.jpg",
+      "type": "stout",
+      "style": "Stout - American",
+      "abv": "7.5%",
+      "description": "Vallensons’ Coffee Stout is the ultimate warmer; perfect for cold weather. Our Coffee Stout is a fusion of dark roasted malts with fresh coffee from our very own local Pearland Coffee Roasters ! This beer has several layers of dark chocolate and caramel-like flavors with an amazing coffee nose and subtle bitterness. 7.5% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "Pear Ale ",
+      "img": "pearale.jpg",
+      "type": "fruit",
+      "style": "Fruit Beer",
+      "abv": "5.5%",
+      "description": "Test Small Batch (limited): PEAR ALE! Before we opened, we discussed making a Pear beer in honor our our hometown! Testing the waters...hoping it becomes a favorite and a Vallensons’ staple! We welcome feedback & always strive to improve new experimental brews! Come try it today!",
+      "onTap": false
+    },
+    {
+      "title": "Effin' Hazy IPA",
+      "img": "neipa.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.3%",
+      "description": "Our NE IPA has an amazing nose, little to no bitterness, and makes the palate dance with it’s full and creamy yet soft mouthfeel. 6% ABV. With this beer, we salute our Texas flag. Come celebrate your independence with us! Cheers!",
+      "onTap": false
+    },
+    {
+      "title": "S.M.A.S.H Mosaic",
+      "img": "smash.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vilzner",
+      "img": "vilzner.jpg",
+      "type": "pilsner",
+      "style": "Pilsner - German",
+      "abv": "5.2%",
+      "description": "We finally made the highly requested light beer. The Vilzner is a crisp, clean 5.2% ABV Pilsner brewed with Pilsner Malt and East Kent Golding Hops. Just in time for the warmer months!",
+      "onTap": false
+    },
+    {
+      "title": "Taevas (BBA RIS)",
+      "img": "bbrussian.jpg",
+      "type": "stout",
+      "style": "Stout - Russian Imperial",
+      "abv": "13.3%",
+      "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. Now its aged of months in Garrison Brother Bourban Barrels. It has a low carbonation level and the ABV is 13.3%.",
+      "onTap": false
+    },
+    {
+      "title": "Double IPA",
+      "img": "aniver.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double",
+      "abv": "7.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Summer Pale",
+      "img": "aniver.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Dos Hijos Pale",
+      "img": "dos.jpg",
+      "type": "pale",
+      "style": "Pale Ale - Other",
+      "abv": "5.5%",
+      "description": "Introducing our clean crisp MeIican Pale Ale. With the sons of Vallensons in mind, we name this one, Dos Hijos! This is a unique pale ale with moderate bitterness and a soft bready malt backbone.",
+      "onTap": false
+    },
+    {
+      "title": "The Haas",
+      "img": "wcipa.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "7.0%",
+      "description": "This West Coast style uses a blend of simcoe and centennial hops resulting in perfect clarity and a tropical fruit profile with a slight hint of pine. This great traditional IPA reminds Valle of the IPAs he once enjoyed while stationed with the USAF in California. 7.0% ABV Cheers!",
+      "onTap": true
+    },
+    {
+      "title": "West Coast IPA",
+      "img": "wcipa.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "7.0%",
+      "description": "This West Coast style uses a blend of simcoe and centennial hops resulting in perfect clarity and a tropical fruit profile with a slight hint of pine. This great traditional IPA reminds Valle of the IPAs he once enjoyed while stationed with the USAF in California. 7.0% ABV Cheers!",
+      "onTap": false
+    },
+    {
+      "title": "American Wheat",
+      "img": "wheat.jpg",
+      "type": "wheat",
+      "style": "Wheat Beer - American Pale Wheat",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Bourbon Barrel Aged American Wheat with Lemon Grass and Ginger",
+      "img": "wheatoldbbl.jpg",
+      "type": "wheat",
+      "style": "Wheat Ale",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Bourbon Barrel Aged Old Ale",
+      "img": "wheatoldbbl.jpg",
+      "type": "old",
+      "style": "Old Ale",
+      "abv": "8.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Irish Dry Stout",
+      "img": "oldirish.jpg",
+      "type": "stout",
+      "style": "Stout - Irish Dry",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Old Ale",
+      "img": "oldirish.jpg",
+      "type": "old",
+      "style": "Old Ale",
+      "abv": "9.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vienna Pale",
+      "img": "vienna.jpg",
+      "type": "pale",
+      "style": "Pale Ale - Other",
+      "abv": "6.7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Brown Porter",
+      "img": "brownporter.jpg",
+      "type": "porter",
+      "style": "Porter - English",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Oktoberfest",
+      "img": "oktoberfest.jpg",
+      "type": "marzen",
+      "style": "Marzen",
+      "abv": "7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Brut IPA",
+      "img": "brut.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "5.9%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Och Aye",
+      "img": "scottishcherry.jpg",
+      "type": "scottish",
+      "style": "Scottish Ale",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Cherry Stout",
+      "img": "scottishcherry.jpg",
+      "type": "stout",
+      "style": "Stout - Other",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "English Brown Ale",
+      "img": "englishbrown.jpg",
+      "type": "brown",
+      "style": "Brown Ale - Other",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Double IPA (2018)",
+      "img": "dipa2018.jpg",
+      "type": "ipa",
+      "style": "Imperial Pale Ale",
+      "abv": "8.3%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Resilience IPA",
+      "img": "resilience.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "6.7%",
+      "description": "This beer was brewed by over 1400 breweries across the country to help support those affected by the camp fires. 100% of Resilience IPA sales will go to the Sierra Nevada Camp Fire Relief fund to help Butte County rebuild its community.",
+      "onTap": false
+    },
+    {
+      "title": "The Drier Brut IPA",
+      "img": "drierbrut.jpg",
+      "type": "ipa",
+      "style": "IPA - Brut",
+      "abv": "8.1%",
+      "description": "In honor of the “fallen” Rice Silos that were at the end of our street (Rice Drier), we name this one The Drier Brut IPA. This one is even better and dryer than our first Brut. It comes in at a big 8.1% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "NEIPA EXP#1",
+      "img": "neipa.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "ExBERRYmental Ale",
+      "img": "berry.jpg",
+      "type": "fruit",
+      "style": "Fruit Beer",
+      "abv": "5.9%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "BeauTEAful Ale",
+      "img": "beauteaful.jpg",
+      "type": "other",
+      "style": "Other",
+      "abv": "5.25%",
+      "description": "This is the first of our spring and summer Herbal Tea Beer Series. This is a light pale ale with an earthy and floral hops profile with an element of citrus. We used fresh herbs at different stages of the mash and boil to come up with this BeauTeaful beer. Some of the herbs consist of dried apples, rose-hips, BlackBerry leaves, Hibiscus, and more. Perfect timing for the spring and summer months.",
+      "onTap": false
+    },
+    {
+      "title": "CrafTEA Peach",
+      "img": "craftea.jpg",
+      "type": "Wheat",
+      "style": "Wheat Beer - Other",
+      "abv": "5.2%",
+      "description": "2019 US Open Beer Championship bronze Medalist! This is the second of our spring and summer Herbal Tea Beer Series. A light pale ale with an earthy and floral hops profile and an element of citrus. We used fresh herbs, including peach, lemongrass, Hibiscus, and more, at different stages of the mash and boil. We think it’s even better than our BeauTEAful beer!",
+      "onTap": false
+    },
+    {
+      "title": "Pink",
+      "img": "pink.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "3.5%",
+      "description": "2019 US Open Beer Championship bronze Medalist! “Pink” is an amazing fragrant tart cherry Berliner Weisse with an amazing cherry nose, dry palate, and a sour tart quenching acidity at the finish. The tart cherries lightens the tart finish & makes for a great Mother’s Day weekend rollout!",
+      "onTap": true
+    },
+    {
+      "title": "Pink (Nitro)",
+      "img": "pink.jpg",
+      "type": "sour",
+      "style": "Sour",
+      "abv": "3.5%",
+      "description": "Our 2022 World Cup GOLD Medal Pink is on Nitro for a limited time! Enjoy it today! Cheers",
+      "onTap": false
+    },
+    {
+      "title": "English IPA",
+      "img": "eipa.jpg",
+      "type": "ipa",
+      "style": "IPA - English",
+      "abv": "7.0%",
+      "description": "English IPA! It’s packed with flavor and offers a bold balance of hops which represent lavender, thyme, and bright piney aroma, with subtle tones of stone fruit, and firm bitterness. Those who like ESBs will love this one!",
+      "onTap": false
+    },
+    {
+      "title": "Experimental Brown Brut IPA",
+      "img": "bblbrownbrutberry.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pear Berliner",
+      "img": "pearb.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "3.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "BBL ExBERRYmental Ale",
+      "img": "bblaexberrymental.jpg",
+      "type": "fruit",
+      "style": "Fuit Beer",
+      "abv": "5.9%",
+      "description": "2019 US Open Beer Championship bronze Medalist!",
+      "onTap": false
+    },
+    {
+      "title": "Berliner Sunrise",
+      "img": "sunrise.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "3.5%",
+      "description": "Our 3rd Berliner Weisse will be on tap tomorrow at 3pm! The citrus note from the yeast and the Macintosh Apples gives this Berliner an amazing taste and smell. The tart and sweet balance will keep you coming back for more! It’s like breakfast in a glass! All you need is a side of bacon and eggs! Cheers!",
+      "onTap": false
+    },
+    {
+      "title": "Visor-Roy Sessions IPA",
+      "img": "sessionipa.jpg",
+      "type": "ipa",
+      "style": "IPA - Session",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Double V3",
+      "img": "v3d.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double",
+      "abv": "10.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pearapple Berliner",
+      "img": "pearapple.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "3.2%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Lo/cal Reserve",
+      "img": "reserve.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "4.7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "PB&Jr RIS",
+      "img": "russian.jpg",
+      "type": "stout",
+      "style": "Stout - Russian Imperial",
+      "abv": "10%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Russian Imperial Stout Oak-Barrel Aged",
+      "img": "russian.jpg",
+      "type": "stout",
+      "style": "Stout - Russian Imperial",
+      "abv": "10%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Schwarzbier",
+      "img": "schwarzbier.jpg",
+      "type": "schwarzbier",
+      "style": "Schwarzbier",
+      "abv": "5.5%",
+      "description": "It has a nice light roastiness on the nose, with a touch of cocoa and a little extra bitterness. The german noble hops combined with the roasted barley allows this one to finish amazingly light, crispy and sessionable!!! 5.5% ABV",
+      "onTap": true
+    },
+    {
+      "title": "Scottich Ale/80 Shillings",
+      "img": "scottishale.jpg",
+      "type": "scottish",
+      "style": "Scottich Export Ale",
+      "abv": "5.6%",
+      "description": "This Scottish-style brown ale has an attractive cherry color; a soft, light body and a hint of licorice in its malt character and a perfect hop balance. It’s rich and dark yet not strong. 5.6% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "Veri",
+      "img": "resberry.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "DIPA Experimental #4",
+      "img": "diex4.jpg",
+      "type": "ipa",
+      "style": "Imperial Pale Ale",
+      "abv": "7.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Rocket Boom Coffee Stout",
+      "img": "rocket.jpg",
+      "type": "stout",
+      "style": "Stout - Coffee",
+      "abv": "8.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Baltic Porter",
+      "img": "brownporter.jpg",
+      "type": "porter",
+      "style": "Porter - Baltic",
+      "abv": "7.8%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Apple Wassail Sour",
+      "img": "apple.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "5.5%",
+      "description": "Apple Wassail Sour, a spin on a family wassail recipe. And while this beer is COLD, it was brewed with hibiscus, ginger, lemon & cinnamon...a perfect balance of the mulled ingredients used in the wassail recipe that Valle and his family has enjoyed for years! Sour & sweet flavored with mulling spices. Smooth, delicious, drinkable! Get it fully dressed with cinnamon stick and lemon! And as Valle would say with a Wassail in hand.",
+      "onTap": false
+    },
+    {
+      "title": "Session Pale Ale",
+      "img": "depot.jpg",
+      "type": "pale",
+      "style": "Pale Ale",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Exp West Coast IPA",
+      "img": "wcipa.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "7.8%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Tangerine Sour",
+      "img": "sunrise.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Dry Stout",
+      "img": "dry.jpg",
+      "type": "stout",
+      "style": "Stout - Irish Dry",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Ordinary Bitter",
+      "img": "ob.jpg",
+      "type": "other",
+      "style": "Other",
+      "abv": "3.2%",
+      "description": "Leap Beer 2020! It’s an Ordinary Bitter and it’s tasty!",
+      "onTap": false
+    },
+    {
+      "title": "Exp#5 DIPA",
+      "img": "exp5.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double",
+      "abv": "8.1%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Daisy Chain Hazy NEIPA",
+      "img": "daisy.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.0%",
+      "description": "We are honored to be part of the 2020 Houston Daisy Chain project! 1 Yeast, 11 Breweries! We brewed a Hazy NEIPA, 6% ABV, that we triple dry hopped with simcoe, cascade, and ahtanum. Its amazing creamy body and perfectly balanced hop characteristic provides an aroma that is packed full of floral, earthy, pine, and grapefruit notes.",
+      "onTap": false
+    },
+    {
+      "title": "Pickle Berliner Weisser",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "2.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Cucumber Berliner Weisse",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "3.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Rye BBL Aged Berliner Weisse",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Black Currant Sour",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "3.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Veri Raspberry Sour",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour",
+      "abv": "5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Becky Roo Da Monster",
+      "img": "belgian.jpg",
+      "type": "belgian",
+      "style": "Belgian Strong Golden Ale",
+      "abv": "11.2%",
+      "description": "We are finally rolling out our very first Belgian! We named this special beer in honor of a close friend’s beloved dog who passed away. Becky Roo Da Monsta is a very high-gravity Belgian Ale coming in at 11.2% ABV. The mellow phenolic character is balanced by an ester profile of pear and light banana. Definitely a sipper but dangerously light in taste so be careful cause it will sneak up on ya!",
+      "onTap": false
+    },
+    {
+      "title": "Wee Heavy",
+      "img": "wee.jpg",
+      "type": "scottish",
+      "style": "Scotch Ale / Wee Heavy",
+      "abv": "7.0%",
+      "description": "Our Wee Heavy Scotch Ale has a rich and malty backbone with a nice balance of crystal malts. There are very little hops needed for this false to style Wee Heavy resulting in a very nice full bodied 7% ABV ale.",
+      "onTap": false
+    },
+    {
+      "title": "No Citrus hazy Pale Ale",
+      "img": "nocitrus.jpg",
+      "type": "pale",
+      "style": "IPA - New England / Hazy",
+      "abv": "5.5%",
+      "description": "No Citrus” Hazy Pale Ale is packed full of botanicals and has hints of passion fruit skin and blood orange with just a hint dank herbal qualities resulting in a balanced bitterness to malt profile. This leans towards the other end of the spectrum for Hazy Pales having no citrus notes, no citrus aroma, or no citrus flavor.",
+      "onTap": false
+    },
+    {
+      "title": "Black Currant Berliner Weisse",
+      "img": "blackberliner.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "3.5%",
+      "description": "Our Black Currant Berliner Weisse is just in time for the spring and summer months. The sourness dominates the profile and the fruit leads to a moderately sweet fruity character.",
+      "onTap": false
+    },
+    {
+      "title": "Peanut Butter Blonde",
+      "img": "pbb.jpg",
+      "type": "blonde",
+      "style": "Blonde Ale",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Rye IPA",
+      "img": "ryeipa.jpg",
+      "type": "ipa",
+      "style": "IPA - Rye",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": " BBL Exp5 DIPA",
+      "img": "exp5dipa.jpg",
+      "type": "ipa",
+      "style": "Imperial India Pale Ale",
+      "abv": "9%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Strawberry Berliner Weisse",
+      "img": "strawberry.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited Berliner Weisse",
+      "abv": "3.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pear Seltzer",
+      "img": "pseltzer.jpg",
+      "type": "seltzer",
+      "style": "Hard Seltzer",
+      "abv": "N/A",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Estonian Raw Ale",
+      "img": "raw.jpg",
+      "type": "farm",
+      "style": "Farmhouse Ale - Other",
+      "abv": "6%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "FU-COVID-19-IPA",
+      "img": "fu19.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pineapple Sour",
+      "img": "ptsour.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "5.0%",
+      "description": "Our new Pineapple Sour has a subtle pineapple up front taste which adds sweetness but the finish is actually quite dry and delicious. ",
+      "onTap": false
+    },
+    {
+      "title": "Tangerine Sour",
+      "img": "ptsour.jpg",
+      "type": "sour",
+      "style": "Sour",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "V's DIPA",
+      "img": "vdipakveik.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double",
+      "abv": "9.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Kveik Pale Ale",
+      "img": "vdipakveik.jpg",
+      "type": "pale",
+      "style": "Pale Ale - Other",
+      "abv": "4.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Tropical Pale Ale",
+      "img": "tropical.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "6.0%",
+      "description": "Our Tropical Pale Ale has the perfect balance of malt and German hops and the finish reflects hints of passion fruit, dried Mango and Guava. Perfect beer for those hot days",
+      "onTap": false
+    },
+    {
+      "title": "Lemongrass Wheat",
+      "img": "comingsoon.jpg",
+      "type": "wheat",
+      "style": "Wheat Beer - American Pale Wheat",
+      "abv": "6%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pink Hazy",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - Sour",
+      "abv": "5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Cucumber Sour",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pickle Sour",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "4.3%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Chili Lemongrass Ginger Wheat",
+      "img": "thai.jpg",
+      "type": "wheat",
+      "style": "Wheat Beer - American Pale Wheat",
+      "abv": "6.3%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Rye Pale Ale",
+      "img": "ryepale.jpg",
+      "type": "rye",
+      "style": "Rye Beer",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "White Coffee Stout",
+      "img": "whitecoffee.jpg",
+      "type": "stout",
+      "style": "Stout - Imperial / Double White / Golden",
+      "abv": "8.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "The Vilz",
+      "img": "vilz.jpg",
+      "type": "pilsner",
+      "style": "Pilsner",
+      "abv": "5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "FallTEA",
+      "img": "fall.jpg",
+      "type": "Other",
+      "style": "Other",
+      "abv": "5.0%",
+      "description": "The FallTEA is the next addition in our tea series. This semi malty ale falls inline with the “Fall” weather months, hence the name “FallTEA”. This beer is brewed with dried blood oranges, orange peels, dried cranberries, cinnamon, ginger, nutmeg, cloves and chai and black tea.",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons' Session Black IPA",
+      "img": "blacksession.jpg",
+      "type": "ipa",
+      "style": "IPA - Session",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Sabro SMaSH",
+      "img": "sabro.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pearland Coffee Stout",
+      "img": "comingsoon.jpg",
+      "type": "stout",
+      "style": "Stout - Coffee",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Peanut Butter RIS",
+      "img": "comingsoon.jpg",
+      "type": "stout",
+      "style": "Stout - Other",
+      "abv": "8.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Saison",
+      "img": "comingsoon.jpg",
+      "type": "farm",
+      "style": "Farmhouse Ale - Saison",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Settlers' Oatmeal Stout Oak Barrel Aged",
+      "img": "comingsoon.jpg",
+      "type": "stout",
+      "style": "Stout - Oatmeal",
+      "abv": "9%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Sour As 2020",
+      "img": "sour2020.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "4.0%",
+      "description": "It’s as “Sour As 2020!",
+      "onTap": false
+    },
+    {
+      "title": "EXP HAZY #1",
+      "img": "sour2020.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial",
+      "abv": "7.0%",
+      "description": "Experimental NEIPA brewed with Australian hops...it’s really good!",
+      "onTap": false
+    },
+    {
+      "title": "Centennial SMaSH",
+      "img": "csmashpa.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "California Common Ale",
+      "img": "californiacommon.jpg",
+      "type": "cali",
+      "style": "California Common",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Dayum Gina",
+      "img": "dhbelgian.jpg",
+      "type": "belgian",
+      "style": "Belgian Strong Golden Ale",
+      "abv": "10.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Dry Hopped Sour",
+      "img": "dhs.jpg",
+      "type": "sour",
+      "style": "IPA - Sour",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Sitting Warrior West Coast IPA",
+      "img": "sittingipa.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons' Mexican Ale",
+      "img": "mexican.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Exp Hazy Pale",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - New England",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Tropical Sour",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "4.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons' Hefeweizen",
+      "img": "hefeweizen.jpg",
+      "type": "wheat",
+      "style": "Wheat Beer - Hefeweizen",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "BBA Saison",
+      "img": "bba.jpg",
+      "type": "farm",
+      "style": "Farmhouse Ale - Saison",
+      "abv": "N/A",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Apple Berliner",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Berliner Weisse",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons Exp W/C",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons PB Wheat",
+      "img": "comingsoon.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Imperial Amber",
+      "img": "imamber.jpg",
+      "type": "red",
+      "style": "Red Ale - American Amber",
+      "abv": "7.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Spa Day IPA",
+      "img": "spa2.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Pineapple Ginger Seltzer",
+      "img": "pgselzer.jpg",
+      "type": "seltzer",
+      "style": "Hard Seltzer",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Mango Sour",
+      "img": "mongomora.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "3.5%",
+      "description": "Our Mango sour has a rich blend of tropical notes and a dominant mango aroma & taste. The balance between the pineapple sweetness and the natural produced acid from the fermentation provides a pleasing balanced tartnesss, this is a tropical twist for a low gravity sour.",
+      "onTap": false
+    },
+    {
+      "title": "The Mora Sour",
+      "img": "mongomora.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "3.5%",
+      "description": "The Mora Sour named after its super tangy and sour Andean Blackberry. You want more sour, you get mora sour. The fruit’s nickname is “Mora” as it's called in Colombia and Ecuador. It is a tangy and sour type of blackberry and It’s like whipping together ripe raspberries, blackberries, cranberries and lingonberries, and kicking it up a notch — or a thousand. We added a lil vanilla as well. ",
+      "onTap": false
+    },
+    {
+      "title": "Li'l Vik'n Rootbeer",
+      "img": "lilroot.jpg",
+      "type": "other",
+      "style": "Root Beer",
+      "abv": "0%",
+      "description": "Launching Li’L Vik’n sodas! Our youngest son, Konner, loves sodas and asked dad to start making them again so we put the kid on the payroll and he is working closely with dad to put out some tasty sodas. Konner is coming up with different flavors but in the meantime, he and dad are bringing the root beer back.",
+      "onTap": false
+    },
+    {
+      "title": "Session IPA With Kviek",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - Farmhouse",
+      "abv": "4.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": " Vallensons ExtraVahAzzier IPA",
+      "img": "ExtraVahAzzier.jpg",
+      "type": "ipa",
+      "style": "IPA - New England",
+      "abv": "5.5%",
+      "description": "The ExtraVahAzzier IPA is our newest NEIPA creation. It unleashes vibrant orange, grapefruit, passion fruit, and guava notes…and E.T. dust aka thiols which are highly aroma active compounds derived from hops. ABV is 5.5%. This is the first of the VBC mission series.",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons Ranch Water Seltzer",
+      "img": "comingsoon.jpg",
+      "type": "seltzer",
+      "style": "Hard Seltzer",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons Session Hazy",
+      "img": "sessionhaze.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "4.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "German Festbier",
+      "img": "german.jpg",
+      "type": "marzen",
+      "style": "Märzen",
+      "abv": "5.7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Big Haas",
+      "img": "bighaas.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial/Double",
+      "abv": "9.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Maid for the Haze",
+      "img": "maid.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.3%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Honey Budz",
+      "img": "honey.jpg",
+      "type": "belgian",
+      "style": "Belgian Strong Ale",
+      "abv": "12%",
+      "description": "The Honey Pot is a Belgian Golden Strong style brewed in collaboration with Budz Bee Farm. Instead of the belgian candi sugar traditionally used, we replaced it with the latest harvest of honey from their farm in Pearland. Added in a couple budz to help in the process and we ended up with a beautifully balanced belgian tripel. This is a great beer made by two locally, family-owned, small businesses!!",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons Lemonhead Sour",
+      "img": "Valloween.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Strawberry Sour Belt",
+      "img": "Valloween.jpg",
+      "type": "sour",
+      "style": "Sour",
+      "abv": "4%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Blue Belt Sour",
+      "img": "Valloween.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Peanut Butter Cup Stout",
+      "img": "Valloween.jpg",
+      "type": "stout",
+      "style": "Stout - Milk/Sweet",
+      "abv": "10%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Val-O-Milk",
+      "img": "Valloween.jpg",
+      "type": "stout",
+      "style": "Stout - Milk/Sweet",
+      "abv": "10%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Blood Orange Sour",
+      "img": "blood.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Coffee Milk Stout",
+      "img": "coffeemilk.jpg",
+      "type": "stout",
+      "style": "Stout - Imperial/Double Milk",
+      "abv": "8.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Sweet Cherry Stout",
+      "img": "coffeemilk.jpg",
+      "type": "stout",
+      "style": "Stout - Milk / Sweet",
+      "abv": "9.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Coconut Milk Stout",
+      "img": "coffeemilk.jpg",
+      "type": "stout",
+      "style": "Stout - Imperial/Double Milk",
+      "abv": "10%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "American Lager",
+      "img": "lager.jpg",
+      "type": "pilsner",
+      "style": "Pilsner - Other",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons Peanut Butter Stout",
+      "img": "comingsoon.jpg",
+      "type": "stout",
+      "style": "Stout - Irish Dry",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons Peppermint Stout",
+      "img": "peppermint.jpg",
+      "type": "stout",
+      "style": "Stout - Other",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Happy HoliHaze",
+      "img": "holihaze.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "N/A",
+      "description": "NEIPA with Spruce Tips, Orange and Cranberry",
+      "onTap": false
+    },
+    {
+      "title": "Happy HoliHaze (2022)",
+      "img": "holi22.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double New England / Hazy",
+      "abv": "N/A",
+      "description": "NEIPA with Spruce Tips, Orange and Cranberry",
+      "onTap": true
+    },
+    {
+      "title": "Amber Lager",
+      "img": "amberlager.jpg",
+      "type": "lager",
+      "style": "Lager - American Amber / Red",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "BBA Imperial Amber",
+      "img": "bbaamber.jpg",
+      "type": "lager",
+      "style": "Lager - Amber",
+      "abv": "11.6%",
+      "description": "An 11.6% BBA Imperial Amber blended aging between Whitmeyer bourbon and Garrison Brothers bourbon barrels.",
+      "onTap": false
+    },
+    {
+      "title": "Belgian Tripel",
+      "img": "belgiantrip.jpg",
+      "type": "belgian",
+      "style": "Belgian Tripel",
+      "abv": "9.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Texas Squeeze IPA",
+      "img": "squeeze.jpg",
+      "type": "ipa",
+      "style": "IPA - Red",
+      "abv": "7.0%",
+      "description": "The Texas Squeeze IPA is a fruited IPA with fresh Rio Red grapefruit, lemongrass and whole leaf cascade hops. This one is bitter and balanced.",
+      "onTap": false
+    },
+    {
+      "title": "Light Lager",
+      "img": "comingsoon.jpg",
+      "type": "lager",
+      "style": "Lager - American Light",
+      "abv": "4.5%",
+      "description": "",
+      "onTap": false
+    },
+    { 
+      "title": "Doppelbock",
+      "img": "doppel.jpg",
+      "type": "bock",
+      "style": "Bock - Doppelbock",
+      "abv": "7.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Robust Porter",
+      "img": "robust.jpg",
+      "type": "porter",
+      "style": "Porter - American",
+      "abv": "8.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Valle Chicho",
+      "img": "comingsoon.jpg",
+      "type": "other",
+      "style": "Lager - Pale",
+      "abv": "N/A",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Irish Red",
+      "img": "irishstout.jpg",
+      "type": "red",
+      "style": "Red Ale - Irish",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Dry Stout on Nitro",
+      "img": "irishstout.jpg",
+      "type": "stout",
+      "style": "Stout - Irish",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "ExtraVahAzzier Mission 2",
+      "img": "mission2.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "5.5%",
+      "description": "We are excited to bring to you…Mission 2 of our ExtraVahAzzier Series (EVA Mission 2). This Hazy IPA is brewed with Trident, Citra, and El Dorado hops. The Trident hops provides a hop forward punch to the nose and balanced bitterness. It exhibits hints of fruity, citrus, tropical, passion fruit. The El Dorado adds pineapple and Mango and the Citra adds the citrus character which makes for an intense fruit flavor. This one is literally out of this world!",
+      "onTap": false
+    },
+    {
+      "title": "Non-Alcoholic Light Pale Ale",
+      "img": "NAB.jpg",
+      "type": "other",
+      "style": "Non-Alcoholic Beer",
+      "abv": "0.25",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "28th State",
+      "img": "28th.jpg",
+      "type": "lager",
+      "style": "Lager - American Light",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pink Side of the Moon 2022",
+      "img": "pinkside.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Gose",
+      "img": "gose.jpg",
+      "type": "sour",
+      "style": "Sour - Traditional Gose",
+      "abv": "3.8%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "So Zesty",
+      "img": "zesty.jpg",
+      "type": "wheat",
+      "style": "Wheat Beer - Other",
+      "abv": "5.7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Key Lime Pie Sour",
+      "img": "keylime.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "6.5%",
+      "description": "Our Key Lime Pie Sour was brewed with 50 pounds of crushed graham cracker crumbs, Madagascar vanilla beans, and fresh key limes. This one reminds us of the Florida Keys which we all miss very much",
+      "onTap": false
+    },
+    {
+      "title": "DewDew Brown",
+      "img": "drybrown.jpg",
+      "type": "brown",
+      "style": "Brown Ale - American",
+      "abv": "7.0%",
+      "description": "This Brown Ale (left) is a malt bomb for those who love Malty beers. It was brewed with flaked and malted oats which gives it an amazing mouthfeel. The combination of the malts used, mash temp, and hops makes this an amazing one for our portfolio. 7% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "5th Anniversary IPA",
+      "img": "drybrown.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "6.5%",
+      "description": "Double dry hopped IPA is our 5th Anniversary IPA. The malts and hops (Centennial, Cascade and Simcoe) selected produced a well balanced IPA for our anniversary. 6.5% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "Long Time No Tea",
+      "img": "long.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.0%",
+      "description": "Double dry hopped IPA is our 5th Anniversary IPA. The malts and hops (Centennial, Cascade and Simcoe) selected produced a well balanced IPA for our anniversary. 6.5% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "Father Day IPA",
+      "img": "father.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "5.0%",
+      "description": "A NEW IPA brewed with Idaho 7 and cascade hops. This is a really balanced IPA and the aroma is amazing! The Pine and Citrus notes really pop on this one. 5% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "BBA Imperial Amber 2022",
+      "img": "bba22.jpg",
+      "type": "lager",
+      "style": "Lager - Amber",
+      "abv": "9.4%",
+      "description": "Bourbon Barrel Aged Imperial Amber aged in Garrison Brothers bourbon barrels for 6 months. The balance from the malts and aging in the barrels provides an amazing combination of oak, bourbon, caramel and vanilla. It gets better the longer it warms up and will go perfect with a cigar.",
+      "onTap": false
+    },
+    {
+      "title": "Belgian Witbier",
+      "img": "witbier.jpg",
+      "type": "wheat",
+      "style": "Wheat Beer - Witbier / Blanche",
+      "abv": "5.0%",
+      "description": "Our first Belgium Witbier is a refreshing crisp dry beer that showcases a perfect balance between malt and hops and Belgian yeast. The zesty, orange-fruitiness notes blended with light hints of coriander and a few other spices makes this an awesome for the summer months.",
+      "onTap": true
+    },
+    {
+      "title": "Wrong Pitch",
+      "img": "pitch.jpg",
+      "type": "belgian",
+      "style": "Belgian Blonde",
+      "abv": "4.0%",
+      "description": "Wrong Pitch is a Belgian table beer coming it at 4%. This beer is a unique mixture of 2 different yeast strands, one that was accidentally pitched by the boss himself! Hence, the name “Wrong Pitch”. Some mistakes turn into good things! The outcome of this mistake is a super crushable session Belgian-style table beer, which is perfect for the hot summer months.",
+      "onTap": false
+    },
+    {
+      "title": "It's Melon Season",
+      "img": "melon.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited Gose",
+      "abv": "4.5%",
+      "description": "Can't Have Sumer without watermelon. The balance of sour, salty, and sweet watermelon is one that will quench your thirst",
+      "onTap": false
+    },
+    {
+      "title": "Starburst",
+      "img": "starburst.jpg",
+      "type": "seltzer",
+      "style": "Hard Seltzer",
+      "abv": "5.0%",
+      "description": "Starburst is a seltzer with hibiscus, raspberry",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons Tropical Starburst",
+      "img": "starburst.jpg",
+      "type": "seltzer",
+      "style": "Hard Seltzer",
+      "abv": "6.0%",
+      "description": "Starburst is a seltzer with hibiscus, raspberry",
+      "onTap": false
+    },
+    {
+      "title": "Cosmic Throat Punch",
+      "img": "cosmic.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double New England / Hazy",
+      "abv": "7.5%",
+      "description": "his was a fun collaboration with our good friends from Chandlers Ford Brewing out of Huntsville, Alabama. This double Hazy IPA is an amazing blend of multiple grains including Golden Promise, Maris Otter, and Oats. We also used a blend of New Zealand hops which we used in the mash, boil, and dry hopping and a Thiolized yeast which resulted in a double Hazy IPA that expresses huge amount vibrant grapefruit, passion fruit, guava hence the name Cosmic Throat Punch! 7.5% ABV. Enjoy it while it lasts! Great collaboration on the artwork by our artist, Casey, and their’s, Adam",
+      "onTap": false
+    },
+    {
+      "title": "PCR Coffee Stout On Nitro",
+      "img": "pcr.jpg",
+      "type": "stout",
+      "style": "Stout - Coffee",
+      "abv": "5.0%",
+      "description": "PCR Coffee Stout on Nitro. This is our latest collaboration brew with Pearland Coffee Roasters. The balance between the malts, hops and coffee makes this an amazing stout for all coffee lovers. The nitro results in a creaminess that you are going to love! Try it today! 5% ABV",
+      "onTap": false
+    },
+    {
+      "title": "Berry Mangolo",
+      "img": "berrymango.jpg",
+      "type": "pale",
+      "style": "Pale Ale - English",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "DH Sour 2022",
+      "img": "dh.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "4.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Donna Wanna",
+      "img": "donna.jpg",
+      "type": "ipa",
+      "style": "IPA - Cold",
+      "abv": "6.3%",
+      "description": "DonnaWanna IPA will be flowing through our taps today! This great beer is named after Lori’s sister, Donna! The artwork was created around her love for horses and barrel racing. Join us tonight as we celebrate her birthday and the release of her beer!",
+      "onTap": true
+    },
+    {
+      "title": "Festbier",
+      "img": "festbier.jpg",
+      "type": "festbier",
+      "style": "Festbier",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "VallensonsPina",
+      "img": "pina.jpg",
+      "style": "Blonde Ale",
+      "type": "blonde",
+      "abv": "6.0%",
+      "description": "Piña is a piña colada Blonde Ale conditioned on pineapples & coconut.  We are putting Piña on Nitro to accentuate the creaminess of this beer. 6% ABV",
+      "onTap":  false
+    },
+    {
+      "title": "Dashboard Dancer",
+      "img": "dancer.jpg",
+      "type": "sour",
+      "style": "Sour - Fruited",
+      "abv": "6.5%",
+      "description": "Dashboard Dancer is an imperial sour conditioned on bananas, strawberries, and coconut. 6.5% ABV ",
+      "onTap": false
+    },
+    {
+      "title": "Export Stout",
+      "img": "export.jpg",
+      "type": "stout",
+      "style": "Stout - Foreign/Export",
+      "abv": "5.9%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Reese's Peanut Butter Cup Stout",
+      "img": "valloweenstout.jpg",
+      "type": "stout",
+      "style": "Stout - Milk/Sweet",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Almond Joy Milk Stout",
+      "img": "valloweenstout.jpg",
+      "type": "stout",
+      "style": "Stout - Milk/Sweet",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Big League Chew Sour",
+      "img": "valloweensour.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Raspberry Belt Sour",
+      "img": "valloweensour.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Old Gourd",
+      "img": "gourd.jpg",
+      "type": "other",
+      "style": "Pumpkin / Yam Beer",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "EVA: Mission 3",
+      "img": "mission3.jpg",
+      "style": "IPA - Imperial/Double New England/Hazy",
+      "type": "ipa",
+      "abv": "8.0%",
+      "description": "EVA Mission 3 is the 3rd Hazy IPA in our ExtraVahAzzier Mission Series. This great beer has coconut, peach, and pineapple on the aroma with a strong tangerine, grapefruit finish. This is a big one at 8% ABV!",
+      "onTap": false
+    },
+    {
+      "title": "For All The H",
+      "img": "fortheh.jpg",
+      "type": "ipa",
+      "style": "IPA - New England/Hazy",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Milk Stout",
+      "img": "comingsoon.jpg",
+      "type": "stout",
+      "style": "Stout - Milk/Sweet",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Eclipse",
+      "img": "black.jpg",
+      "type": "ipa",
+      "style": "IPA - Black / Cascadian Dark Ale",
+      "abv": "8.5%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Cold IPA",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - Cold",
+      "abv": "5.8%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Belgian Golden Strong",
+      "img": "golden.jpg",
+      "type": "belgian",
+      "style": "Belgian Strong Golden Ale",
+      "abv": "11.5%",
+      "description": "This Belgian Golden Strong is a big one at 11.5% ABV! LIMIT 2",
+      "onTap": true
+    },
+    {
+      "title": "Quad",
+      "img": "quad.jpg",
+      "type": "belgian",
+      "style": "Belgian Quadrupel",
+      "abv": "10%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Rabbit 2023",
+      "img": "rabbit.jpg",
+      "type": "lager",
+      "style": "Lager - Japanese Rice",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Tea Series Experimental #2",
+      "img": "comingsoon.jpg",
+      "type": "other",
+      "style": "Other",
+      "abv": "5.2%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Exp #4 IPA",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double",
+      "abv": "5.2%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Session IPA",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - Session",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "EXP HAZY #1",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double New England / Hazy",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pineapple CrHaze",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons' 8th Hour Spicy Pale Ale",
+      "img": "comingsoon.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Dark Sour",
+      "img": "comingsoon.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "St. Paddy Stout",
+      "img": "comingsoon.jpg",
+      "type": "stout",
+      "style": "Stout - American",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Happy HoliHaze (2022)",
+      "img": "holihaze.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double New England / Hazy",
+      "abv": "8.8%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pineapple Haze",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "5.6%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "BBL Aged EXP5 DIPA",
+      "img": "comingsoon.jpg",
+      "type": "ipa",
+      "style": "IPA - Imperial / Double",
+      "abv": "N/A",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "DH Sour",
+      "img": "dh.jpg",
+      "type": "sour",
+      "style": "Sour - Other",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Belma Pale",
+      "img": "comingsoon.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Estonian Dark Raw",
+      "img": "comingsoon.jpg",
+      "type": "dark",
+      "style": "Dark Ale",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Bourbon Barrel Aged Lemongrass Ginger Wheat",
+      "img": "wheat.jpg",
+      "type": "wheat",
+      "style": "Wheat Beer - Other",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Best Dill Ever",
+      "img": "comingsoon.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "sMaSH Pale Ale",
+      "img": "smash.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "White Coffee Stout",
+      "img": "whitecoffee.jpg",
+      "type": "stout",
+      "style": "Stout - White / Golden",
+      "abv": "N/A",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "EXP Estonian Raw Ale",
+      "img": "raw.jpg",
+      "type": "farm",
+      "style": "Farmhouse Ale - Other",
+      "abv": "4.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons' Exp W/C",
+      "img": "wcipa.jpg",
+      "type": "ipa",
+      "style": "IPA - American",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Coffee Wee Heavy",
+      "img": "wee.jpg",
+      "type": "scottish",
+      "style": "Scotch Ale / Wee Heavy",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Christmas Ale (2018)",
+      "img": "christmas.jpg",
+      "type": "Brown",
+      "style": "Brown Ale - American",
+      "abv": "6.3%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Christmas Ale (2022)",
+      "img": "christmas.jpg",
+      "type": "Brown",
+      "style": "Brown Ale - American",
+      "abv": "6.8%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Barrel Aged Baltic Porter",
+      "img": "brownporter.jpg",
+      "type": "porter",
+      "style": "Porter - Baltic",
+      "abv": "14%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons' Red Husky",
+      "img": "comingsoon.jpg",
+      "type": "lager",
+      "style": "Lager - American Amber / Red",
+      "abv": "N/A",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Val O'Reese's",
+      "img": "comingsoon.jpg",
+      "type": "stout",
+      "style": "Stout - Milk / Sweet",
+      "abv": "N/A",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pink Spa",
+      "img": "pink.jpg",
+      "type": "ipa",
+      "style": "IPA - Sour",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Tropical Stout",
+      "img": "comingsoon.jpg",
+      "type": "stout",
+      "style": "Stout - Foreign / Export",
+      "abv": "5.9%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Lemongrass Pale Ale",
+      "img": "comingsoon.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Test Batch Pale Ale",
+      "img": "comingsoon.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.3%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Pilot Pale Ale",
+      "img": "comingsoon.jpg",
+      "type": "pale",
+      "style": "Pale Ale - American",
+      "abv": "5.2%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "BBA RIS 2022 (Garrison Brothers Balmorhea Barrels)",
+      "img": "balmorhea.jpg",
+      "type": "stout",
+      "style": "Stout - Russian Imperial",
+      "abv": "10.6%",
+      "description": "",
+      "onTap": true
+    }
+    ,
+    {
+      "title": "Honey Potz (Golden Honey Stout) (Nitro)",
+      "img": "honeynitro.jpg",
+      "type": "stout",
+      "style": "Stout - Imperial / Double White / Golden",
+      "abv": "9.0%",
+      "description": "This is the second beer made with honey from the Local Budz Bee Farm. We also used Hazelnuts, coffee and vanilla. To top this off we put this on nitro which results in a creamy deliciousness.",
+      "onTap": true
+    },
+    {
+      "title": "VERIant",
+      "img": "veriant.jpg",
+      "type": "sour",
+      "style": "Sour - Fruit with Elderberry and Pomegrant",
+      "abv": "5.0%",
+      "description": "You may remember the Veri, our popular Raspberry sour that is no longer being produced due to the significant cost increase in fresh raspberries. As an alternative, we decided to change a few things resulting in a variant of the Veri. We call this one, The VERIant. A fruited sour with a very precise blend of Elderberry and Pomegranate. The balance of the PH and sweetness resulted in a sour beer that is going to make your taste buds very happy.",
+      "onTap": true
+    }
+  ]

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png"/>
+    <link rel="manifest" href="/favicon/manifest.json" />
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/8f9c2ff276.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/styles.min.css">
+    <title>Vallensons</title>
+</head>
+<body>
+    <header class="beers-bg sub-header">
+        <div class="nav-bar">
+            <div class="branding">
+                <img src="img/vallenlogomin.png" alt="Vallensons V Logo">
+                <h1>Vallensons Brewing Company</h1>
+            </div>
+            <nav id="navBox" aria-expanded="false">
+                <a href="index.html" class="nav-links">Home</a>
+                <a href="about.html" class="nav-links">About</a>
+                <a href="#beers" class="nav-links">Beers</a>
+                <a href="events.html" class="nav-links">Events</a>
+                <a href="contact.html" class="nav-links">Contact</a>
+            </nav>
+            <button class="mobile-btn" aria-controls="mobile-nav" aria-expanded="false">
+                <svg class="hamburger" viewBox="0 0 100 100" width="50">
+                    <rect class="line top" width="80" height="10" x="10" y="25" rx="5"></rect>
+                    <rect class="line middle" width="80" height="10" x="10" y="45" rx="5"></rect>
+                    <rect class="line bottom" width="80" height="10" x="10" y="65" rx="5"></rect>
+                </svg>
+            </button>
+        </div>
+        <div class="sub-hero">
+            <div class="sub-hero-content">
+                <h1>Our Beers</h1>
+            </div>
+        </div>
+    </header>
+    <main>
+        <Section id="beers">
+            <div class="container">
+                <div class="beer-intro">
+                    <h2>Beers Crafted By Vallensons'</h2>
+                    <hr>
+                    <div class="grid">
+                        <article>
+                            <p>Scan or click the QR Code to download our menu and see what is currently on tap. You can also visit our Untappd page by clicking the Untappd button.</p>
+                        </article>
+                        <aside>
+                            <a href="https://untp.beer/dpQax" target="_blank"><img src="img/qr.jpg" alt="QR Code to download Vallensons' menu" class="qr"></a>
+                            <button class="action-btn"><a href="https://untappd.com/v/vallensons-brewing-company/6262921" target="_blank"><i class="fa-brands fa-untappd"></i> Untappd <i class="fa-brands fa-untappd"></i></a></button>
+                        </aside>
+                    </div>
+                    <!-- <p>Scan or click the QR Code to download our menu and see what is currently on tap. You can also visit our Untappd page by clicking the button below.</p>
+                    <a href="https://untp.beer/dpQax" target="_blank"><img src="img/qr.jpg" alt="QR Code to download Vallensons' menu" class="qr"></a>
+                    <button class="action-btn"><a href="https://untappd.com/v/vallensons-brewing-company/6262921" target="_blank"><i class="fa-brands fa-untappd"></i> Untappd <i class="fa-brands fa-untappd"></i></a></button> -->
+                </div>
+                <hr>
+                <div class="beer-select">
+                    <p>Please select your favorite beer style to see the different beers we have created over the years.</p>
+                    <select name="beers" id="beer-selection">
+                        <option value="0">Stout's</option>
+                        <option value="1">Pale Ale's</option>
+                        <option value="2">IPA's</option>
+                        <option value="3">Wheat Beer's</option>
+                        <option value="4">Cream Ale's</option>
+                        <option value="5">Lager's</option>
+                        <option value="6">Strong Ale's</option>
+                        <option value="7">Rye Beer's</option>
+                        <option value="8">Porter's</option>
+                        <option value="9">Old Ale's</option>
+                        <option value="10">Fruit Beer's</option>
+                        <option value="11">Pilsner's</option>
+                        <option value="12">Marzen's</option>
+                        <option value="13">Scottish Ale</option>
+                        <option value="14">Brown Ale's</option>
+                        <option value="15">Sour's</option>
+                        <option value="16">Schwarzbier's</option>
+                        <option value="17">belgian's</option>
+                        <option value="18">Blonde's</option>
+                        <option value="19">Farmhouse Ale's</option>
+                        <option value="20">California Common Ale's</option>
+                        <option value="21">Red Ale's</option>
+                        <option value="22">Seltzer's</option>
+                        <option value="23">Bock's</option>
+                        <option value="24">festbier</option>
+                        <option value="25">Dark Ale's</option>
+                        <option value="26">Other</option>
+                    </select>
+                </div>
+                <div id="beer-window"></div>
+            </div>
+        </Section>
+        <section id="other-drinks">
+            <div class="container">
+                <h2>Other Drinks we provide our customers</h2>
+                <hr>
+                <div class="grid-normal">
+                    <article class="other-drink-content">
+                        <h3>Wine</h3>
+                        <ul>
+                            <li>Pinot Grigio</li>
+                            <li>Pinot Noir</li>
+                            <li>Cabernet Savignon</li>
+                            <li>Chardonnay</li>
+                        </ul>
+                        <h3>Ciders</h3>
+                        <ul>
+                            <li>Pear Cider</li>
+                        </ul>
+                        <h3>Vallensons' Soda</h3>
+                        <ul>
+                            <li>Root Beer</li>
+                            <li>Cream Soda</li>
+                        </ul>
+                    </article>
+                    <aside>
+                        <img src="img/otherdrinks.jpg" alt="Other Drinks">
+                    </aside>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>Follow us on Social Media</p>
+        <a href="https://www.facebook.com/vallensons/" target="_blank"><i class="fa-brands fa-square-facebook"></i></a>
+        <a href="https://twitter.com/Vallensons" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+        <a href="https://www.instagram.com/vallensons/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://untappd.com/VallensonsBrewingCompany" target="_blank"><i class="fa-brands fa-untappd"></i></a>
+        <p class="copy">Copyright &copy; Vallensons' Brewing Company LLC</p>
+    </footer>
+    <script src="js/main.js"></script>
+    <script src="js/beers.js"></script>
+</body>
+</html>
